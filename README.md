@@ -56,7 +56,7 @@ Creates a new transaction. Requires a JSON body with transaction details.
 {
     "title": "Job",
     "amount": 300,
- 	  "type": "credit"
+ 	"type": "credit"
 }
 ```
 
