@@ -1,4 +1,4 @@
-# First API REST with NodeJs
+# API REST with NodeJs
 
 This project is focused on developing a robust and efficient REST API using Fastify, Knex, and TypeScript. It aims to deepen the understanding of core backend concepts in Node.js, exploring how key functionalities work under the hood. The API implementation includes features such as middleware handling, database interactions with Knex, efficient request processing using Fastify, and support for file storage. Additionally, the project incorporates automated tests to ensure reliability and uses migrations for managing the local database schema.
 
